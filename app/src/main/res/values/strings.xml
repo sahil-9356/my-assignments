@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment App</string>
+    <string name="hello_i_am_sahil_pawar" />
+    <string name="text1">Sahil</string>
+    <string name="text2">Pranav</string>
+    <string name="text3">Kunal</string>
+    <string name="text4">Anuj</string>
+    <string name="text5">Riyansh</string>
+
+
+</resources>
